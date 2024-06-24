@@ -74,6 +74,6 @@ Ridham Dhir
 ridham.dhir18@gmail.com
 
 
-## License
+## Video Link
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+https://www.loom.com/share/b0412e0f64c34dd68fabe451f95ff6bd?sid=ad5e9796-1a43-400b-bad3-841e4be6aa12
